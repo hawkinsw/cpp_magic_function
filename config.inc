@@ -1,1 +1,0 @@
-#cmakedefine MAGIC_NUMBER @MAGIC_NUMBER@

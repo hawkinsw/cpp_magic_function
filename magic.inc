@@ -1,4 +1,4 @@
-#define MAGIC_NUMBER 72
+#cmakedefine MAGIC_NUMBER @MAGIC_NUMBER@
 
 int guess_and_check(int guess) {
   int check = MAGIC_NUMBER;
